@@ -2,6 +2,12 @@
 
 This repository contains assignments and practice projects developed during the Automated Quality Assurance course.
 
+## 🎯 Goals
+
+- Strengthen testing fundamentals 🧩  
+- Practice writing automated tests 💻  
+- Build confidence in Git & CI/CD workflows ⚙️  
+
 ## 📘 Purpose
 
 The project is created for learning and improving skills in automated software testing.
