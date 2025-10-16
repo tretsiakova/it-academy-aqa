@@ -1,6 +1,6 @@
 # AQA Course
 
-This repository contains assignments and practice projects developed during the Automated Quality Assurance (AQA) course.
+This repository contains assignments and practice projects developed during the Automated Quality Assurance course.
 
 ## 📘 Purpose
 
